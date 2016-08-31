@@ -1,0 +1,24 @@
+.selected {
+  background: #F8F8FF;
+}
+
+.videoReel {
+  max-height: 400px;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  background: #DCDCDC;
+}
+
+.video {
+  display: table-cell;
+}
+
+.videoName {
+  color: black;
+  text-align: center;
+}
+
+.videoEntry {
+  margin: 10px;
+  float: left;
+}
