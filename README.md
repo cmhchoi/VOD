@@ -9,3 +9,7 @@ At directory, please run the following:
 1. ```mongod``` or ```sudo mongod``` to start database
 
 For localhost, please go to http://localhost:8080/#/history
+
+## Demo
+
+![alt tag](http://g.recordit.co/TCm2bW3HG6.gif)
