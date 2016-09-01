@@ -12,4 +12,4 @@ For localhost, please go to http://localhost:8080/#/history
 
 ## Demo
 
-![alt tag](http://g.recordit.co/TCm2bW3HG6.gif)
+![alt tag](https://cloud.githubusercontent.com/assets/9430957/18151028/27417538-701e-11e6-8ab7-478fed185566.gif)
